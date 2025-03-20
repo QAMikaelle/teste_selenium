@@ -12,3 +12,5 @@ driver = webdriver.Chrome(service=service, options=chrome_options)
 
 driver.get('https://www.hml.lector.live/testesautomatizados/subscribe/login')
 time.sleep(10)
+
+usuario = driver.find_element(By.NAME, "login_username")
