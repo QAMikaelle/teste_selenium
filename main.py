@@ -15,4 +15,3 @@ time.sleep(10)
 
 usuario = driver.find_element(By.NAME, "login_username")
 
-test
