@@ -1,3 +1,7 @@
+# This Python script is using the Selenium WebDriver to automate testing scenarios on a login page.
+# Here's a breakdown of what the script is doing:
+# This Python script is using the Selenium WebDriver to automate testing scenarios on a login page.
+# Here's a breakdown of what the script is doing:
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
